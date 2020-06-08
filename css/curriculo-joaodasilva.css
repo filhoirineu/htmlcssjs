@@ -7,7 +7,8 @@ body {
         rgba(0, 0, 0, 0.6895133053221288) 100%
     );
     font-family: Arial, Helvetica, sans-serif;
-    margin: 25px;
+    width: 90%;
+    margin: auto;
     color: white;
 }
 
@@ -37,4 +38,12 @@ a {
 
 a:hover {
     color: blue;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+ul {
+    padding-left: 25px;
 }
